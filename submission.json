@@ -1,0 +1,12 @@
+{
+  "name": "Partnr Talent Layer",
+  "description": "Backend talent discovery platform for borderless societies",
+  "stack": ["Node.js", "Express", "PostgreSQL", "Prisma", "Docker"],
+  "features": [
+    "Authentication",
+    "Talent profiles",
+    "Skill tagging",
+    "Search & discovery"
+  ],
+  "author": "Chandrasekhar"
+}
